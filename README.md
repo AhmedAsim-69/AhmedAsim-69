@@ -75,8 +75,18 @@
 //  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAsim-69&theme=onedark" />
 // </div>
 // -->
-## Feeding...
-![Snake animation](https://github.com/AhmedAsim-69/AhmedAsim-69/blob/output/github-contribution-grid-snake.svg)
+
+## Contributiions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<!-- ![Snake animation](https://github.com/AhmedAsim-69/AhmedAsim-69/blob/output/github-contribution-grid-snake.svg)
+ -->
 
 
+
+<h6>
 Last Edited on: 14/07/2024
+</h6>
