@@ -66,15 +66,15 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
 </p>
-
-## My Journey
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=AhmedAsim-69&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedAsim-69&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAsim-69&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAsim-69&theme=onedark" />
-</div>
-
+<!-- //
+// ## My Journey
+// <div>
+//  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=AhmedAsim-69&show_icons=true&theme=onedark">
+//  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedAsim-69&layout=compact&theme=onedark" />
+//  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAsim-69&theme=github">
+//  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAsim-69&theme=onedark" />
+// </div>
+// -->
 ## Feeding...
 ![Snake animation](https://github.com/AhmedAsim-69/AhmedAsim-69/blob/output/github-contribution-grid-snake.svg)
 
